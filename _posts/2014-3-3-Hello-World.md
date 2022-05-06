@@ -1,3 +1,7 @@
-#첫포스팅
+---
+layout: post
+title: test
+---
 
-##테스트
+
+ddd
